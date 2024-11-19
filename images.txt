@@ -5,3 +5,4 @@ portainer/portainer
 wangbinxingkong/fast
 linuxserver/qbittorrent
 deluan/navidrome
+xhongc/music_tag_web

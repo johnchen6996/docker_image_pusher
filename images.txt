@@ -4,5 +4,5 @@ xhofe/alist:latest
 portainer/portainer
 wangbinxingkong/fast
 linuxserver/qbittorrent
-deluan/navidrome:pr-3426
+deluan/navidrome:develop
 xhongc/music_tag_web
